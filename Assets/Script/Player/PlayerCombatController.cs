@@ -21,6 +21,7 @@ public class PlayerCombatController : MonoBehaviour
     private PlayerController PC;
     private PlayerStats PS;
 
+    private bool isJump;
     private void Start()
     {
         anim = GetComponent<Animator>();
