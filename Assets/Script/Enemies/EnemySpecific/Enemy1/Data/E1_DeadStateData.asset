@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f0d9bed0d759e046b36e8047c17095a, type: 3}
+  m_Name: E1_DeadStateData
+  m_EditorClassIdentifier: 
+  deathChunkParticle: {fileID: 1466048031399086533, guid: 27dc89bc6eaa9334ebeae51ed9d9fba1,
+    type: 3}
+  deathBloodParticle: {fileID: 665736517773133973, guid: eb8172058444b2a4bb8f5672cb2e74df,
+    type: 3}
